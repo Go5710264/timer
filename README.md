@@ -1,5 +1,7 @@
 # Таймер
 
+[![timer](https://github.com/Go5710264/timer/actions/workflows/github-actions-demo.yml/badge.svg)](https://github.com/Go5710264/timer/actions/workflows/github-actions-demo.yml)
+
 Реализован обычный таймер.
 
 [x] Шаг анимации таймера 1 секунда.
